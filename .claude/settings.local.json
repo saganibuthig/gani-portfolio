@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Isagani/.claude/skills/ui-ux-pro-max/**)",
+      "Bash(python scripts/search.py \"clothing fashion brand ecommerce landing page glassmorphism elegant\" --design-system -p \"Clothing Brand\" -f markdown)",
+      "Bash(python scripts/search.py \"glassmorphism fashion dark\" --domain style)",
+      "Bash(python scripts/search.py \"layout responsive hero\" --stack nextjs)",
+      "Bash(npx create-next-app@latest clothing-landing --typescript --tailwind --eslint --app --no-src-dir --import-alias \"@/*\")",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(npm run:*)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(npx shadcn@latest init -d)",
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\Isagani\\\\OneDrive\\\\Desktop\\\\Project 2\\\\landing page 3\\\\src\\\\components\\\\ui\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\Isagani\\\\OneDrive\\\\Desktop\\\\Project 2\\\\landing page 3\\\\src\\\\lib\")",
+      "Bash(curl -s http://localhost:5174)",
+      "Bash(npx tsc:*)",
+      "mcp__0c42447a-4ac6-4171-8e54-316a0e1c7b60__deploy_to_vercel",
+      "Bash(npx vercel:*)",
+      "mcp__387e33c4-c55b-4bbc-8ae2-3ef78136b0d3__list_projects",
+      "mcp__387e33c4-c55b-4bbc-8ae2-3ef78136b0d3__get_project_url",
+      "mcp__387e33c4-c55b-4bbc-8ae2-3ef78136b0d3__get_publishable_keys",
+      "mcp__387e33c4-c55b-4bbc-8ae2-3ef78136b0d3__apply_migration",
+      "mcp__387e33c4-c55b-4bbc-8ae2-3ef78136b0d3__execute_sql",
+      "Bash(taskkill /F /IM node.exe)",
+      "mcp__0c42447a-4ac6-4171-8e54-316a0e1c7b60__list_deployments",
+      "Read(//c/Users/Isagani/OneDrive/Desktop//**)",
+      "Read(//c/Users/Isagani/Desktop//**)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(git config *)",
+      "Bash(gh auth *)",
+      "Bash(winget install *)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Bash(gh repo *)",
+      "Bash(npm list *)",
+      "Bash(vercel whoami *)",
+      "Bash(vercel deploy *)"
+    ]
+  }
+}
