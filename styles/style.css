@@ -1,3 +1,9 @@
+/* Prevent invisible text during font load */
+@font-face {
+  font-family: 'GeneralSans';
+  font-display: swap;
+}
+
 :root {
   --clr-dark: #00131a;
   --clr-light: oklch(96.8% 0.007 247.896);
