@@ -12,8 +12,8 @@
 .hero__img{
     display: inline-block;
     border-radius: 50%;
-    width: 6rem;
-    height: 6rem;
+    width: 7.2rem;
+    height: 7.2rem;
     object-fit: cover;
     background-image: linear-gradient(135deg, #FFF5EE 0%, #FFBA96 100%);
 }
@@ -34,7 +34,7 @@
 
 .hero__description {
     max-width: 60ch;
-    font-size: var(--size-sm);
+    font-size: var(--size-lg);
     color: var(--clr-slate600)
 }
 
